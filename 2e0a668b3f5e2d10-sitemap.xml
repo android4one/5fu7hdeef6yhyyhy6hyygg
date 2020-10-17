@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://chat7.net/sraj/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-17</lastmod>
   </url>
   <url>
     <loc>https://chat7.net/gulls/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-17</lastmod>
   </url>
   <url>
     <loc>https://chat7.net/dawy/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-17</lastmod>
   </url>
 </urlset>
