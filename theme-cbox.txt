@@ -1,0 +1,248 @@
+html{
+}
+
+td {
+font-family:tahoma, sans-serif;
+font-size:14pt;
+color:#000;
+}
+
+.mnbdy {
+padding:1px;
+margin:0px;
+-moz-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.fmbdy {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+user-select: none;
+user-select: none padding:1px;
+margin:0px;
+}
+
+A:link {
+text-decoration:none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+user-select: none; 
+font-size:13pt;
+color:#980038;
+float: right;
+margin: 0px 0px 0px 3px;
+}
+A:linkhover
+{
+background-color:#E8E8E8;
+color:#9B0039;
+}
+A:link:active
+{
+background-color: ##E8E8E8;
+color:#e37e41;
+}
+
+A:visited {
+text-decoration:none;
+color:#e37e41;
+}
+
+A:active {
+text-decoration:underline;
+color:#e37e41;
+}
+
+A:hover {
+text-decoration:underline;
+color:#333;
+}
+
+.hbtbl {
+table-layout:fixed;
+word-wrap:break-word;
+overflow:hidden;
+}
+
+.stxt {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+user-select: none;
+border:#F9F9F9 2px solid;
+background:#f5f5f5;
+color:#000;
+font-size:20px;
+}
+.stxt:hover
+{
+background-color:#E8E8E8;
+color:#000;
+}
+.stxt:active
+{
+background-color: ##E8E8E8;
+color:#000;
+}
+
+.stxt2 {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+user-select: none;
+border:#F9F9F9 2px solid;
+color:#000;
+background:#F1F1F1;
+font-size:20px;
+}
+.stxt2:hover
+{
+background-color:#E8E8E8;
+color:#000;
+}
+.stxt2:active
+{
+background-color: ##E8E8E8;
+color:#000;
+}
+
+.dtxt {
+text-align:right;
+color:#E50913;
+font-size:8pt;
+}
+
+.dtxt2 {
+text-align:right;
+color:#E50913;
+font-size:8pt;
+}
+
+.pn_std {
+color:#339966;
+}
+.pn_reg {
+color:#141CEE;
+padding : 0 5px 0 0px;
+font-size:22px;
+text-shadow:0 0 7px #000;
+}
+.pn_mod {
+color:#000;
+padding : 0 5px 0 0px;
+font-size:22px;
+text-shadow:0 0 7px #000;
+}
+.pn_adm {
+color:#000;
+padding : 0 5px 0 0px;
+font-size:22px;
+text-shadow:0 0 7px #000;
+}
+
+.cfrm {
+margin-bottom:0px;
+}
+
+.frmtb {
+border-radius:6px;
+-moz-border-radius:7px;
+width:83px;
+height:70px;
+padding-left:1px;
+background: #f5f5f5;
+padding-right:1px;
+font-family:Arial, sans-serif;
+font-size:14pt;
+border:1px solid #C1C1C1;
+color:#707070 margin: 1px 1px 5px 5px;
+color:#000;
+}
+
+.frmtb:hover
+{
+background-color:#E8E8E8;
+color:#000;
+}
+.frmtb:active
+{
+background-color: #E8E8E8;
+color:#000;
+}
+
+.frmbtn {
+border-radius:8px;
+border:1px solid#EFEFE8;
+width:50px;
+height:70px;
+font-size:14pt;
+background-color:#980038;
+color:#F5F5F5;
+padding-left:06px;
+padding-right:06px;
+vertical-align:top;
+margin: 1px 1px 1px 1px;
+}
+
+.frmbtn:hover
+{
+background-color:#980038;
+color:#F5F5F5;
+}
+.frmbtn:active
+{
+background-color: #DADADA;
+color:#707070;
+}
+
+.lnk {
+color:#000;
+}
+
+.pic {
+width:80px;
+height:80px;
+float:left;
+border: 1px solid #9f9387;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+/* border-radius: 13px; */
+}
+
+h1 {
+font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+font-size: 92px;
+padding: 80px 50px;
+text-align: center;
+text-transform: uppercase;
+text-rendering: optimizeLegibility;
+}
+
+.btn{
+color:#fff;
+font-weight:bold;
+font-family:"El Messiri",sans-serif;
+border:#000 2px solid;
+border-radius:6px;
+padding:4px;
+}
+.btn:hover
+{
+background-color:#fff;
+color:#000;
+}
+
+.status {
+ float: right;
+}
+
+.msg.Private.Sent .status:after {
+ content: \2714 ;
+}
+
+.msg.Private.Delivered .status:af
