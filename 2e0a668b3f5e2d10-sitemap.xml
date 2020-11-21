@@ -1,4 +1,8 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>https://chat7.net/fadi/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>
   <url>
     <loc>https://chat7.net/njom/</loc>
     <lastmod>2020-11-15</lastmod>
@@ -70,5 +74,9 @@
   <url>
     <loc>https://chat7.net/ghzl/</loc>
     <lastmod>2020-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://chat7.net/md7b/</loc>
+    <lastmod>2020-11-21</lastmod>
   </url>
 </urlset>
